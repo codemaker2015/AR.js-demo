@@ -2,7 +2,7 @@
 
 ## Run
 
-Try it out here: https://renuo.github.io/arjs-demo/
+Try it out here: https://ar-js-demo.vercel.app
 
 To run it locally, you may need to run it in a web server, e.g.:
 
